@@ -1,12 +1,12 @@
 h1  {
-  color: chartreuse;
+  color: black;
   font-family: fantasy;
   font-weight: 800;
 }
 
 h2  {
   color: darkorange;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: oblique;
 }
 
@@ -18,5 +18,10 @@ h3  {
 }
 
 body  {
-  background-color: aqua;
+  background-color: whitesmoke;
+}
+
+p {
+  font-size: 40px;
+  color: red;
 }
